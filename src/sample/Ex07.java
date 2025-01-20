@@ -1,3 +1,4 @@
+package sample;
 import java.time.LocalDateTime;
 
 public class Ex07 {
